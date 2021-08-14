@@ -1,3 +1,4 @@
+<?php
 /**
  * Try to determine the size of a remote file by making an HTTP request for
  * a byte range, or look for the content-length header in the response.

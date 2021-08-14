@@ -169,3 +169,6 @@ ini_set('session.cache_limiter','none');
 
 $filename='jellyfish-110-mbps-hd-h264.mkv.ts.mkv'; //this is the PDF file that will be byteserved
 byteserve($filename); //byteserve it!
+
+
+// REF: https://github.com/rvflorian/byte-serving-php
